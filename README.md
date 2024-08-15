@@ -22,7 +22,7 @@
       Focus:
 
             - Full functionality of above functions with low latency
-            - create 1 contract of MATIC-USDT-SWAP.
+             and create 1 contract of MATIC-USDT-SWAP.
 
 ## To run the OKXTradingSystem project locally, you'll need to follow these steps:
 
