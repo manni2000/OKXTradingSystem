@@ -1,0 +1,3 @@
+C:/program1/Projects/OKXTradingSystem/build/CMakeFiles/OKXTradingSystem.dir
+C:/program1/Projects/OKXTradingSystem/build/CMakeFiles/edit_cache.dir
+C:/program1/Projects/OKXTradingSystem/build/CMakeFiles/rebuild_cache.dir
