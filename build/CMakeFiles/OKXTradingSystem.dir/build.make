@@ -126,7 +126,7 @@ OKXTradingSystem.exe: CMakeFiles/OKXTradingSystem.dir/src/main.cpp.obj
 OKXTradingSystem.exe: CMakeFiles/OKXTradingSystem.dir/src/OKXClient.cpp.obj
 OKXTradingSystem.exe: CMakeFiles/OKXTradingSystem.dir/src/Utils.cpp.obj
 OKXTradingSystem.exe: CMakeFiles/OKXTradingSystem.dir/build.make
-OKXTradingSystem.exe: C:/Program\ Files/curl-8.9.1_1-win32-mingw/lib/libcurl.a
+OKXTradingSystem.exe: C:/Program\ Files/curl-8.9.1_1-win64-mingw/lib/libcurl.a
 OKXTradingSystem.exe: C:/Program\ Files/jsoncpp-1.9.5/build/lib/libjsoncpp.a
 OKXTradingSystem.exe: CMakeFiles/OKXTradingSystem.dir/linkLibs.rsp
 OKXTradingSystem.exe: CMakeFiles/OKXTradingSystem.dir/objects1.rsp
