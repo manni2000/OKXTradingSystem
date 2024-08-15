@@ -1,5 +1,5 @@
 ﻿# OKXTradingSystem: 
- **Create an order execution and management system to trade on OKX**
+ **Created an order execution and management system to trade on OKX**
 
       *Functions*
 
