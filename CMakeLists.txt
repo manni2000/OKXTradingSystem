@@ -24,5 +24,5 @@ set(JSONCPP_LIBRARIES "C:/Program Files/jsoncpp-1.9.5/build/lib/libjsoncpp.a")
 add_executable(OKXTradingSystem src/main.cpp src/OKXClient.cpp src/Utils.cpp)
 
 # Link libraries
-target_link_libraries(OKXTradingSystem ${CURL_LIBRARY} ${JSONCPP_LIBRARIES} ws2_32)
+target_link_libraries(OKXTradingSystem ${CURL_LIBRARY} ${JSONCPP_LIBRARIES})
 

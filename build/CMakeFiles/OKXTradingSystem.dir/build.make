@@ -73,45 +73,45 @@ CMakeFiles/OKXTradingSystem.dir/src/main.cpp.obj: CMakeFiles/OKXTradingSystem.di
 CMakeFiles/OKXTradingSystem.dir/src/main.cpp.obj: C:/program1/Projects/OKXTradingSystem/src/main.cpp
 CMakeFiles/OKXTradingSystem.dir/src/main.cpp.obj: CMakeFiles/OKXTradingSystem.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\program1\Projects\OKXTradingSystem\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OKXTradingSystem.dir/src/main.cpp.obj"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OKXTradingSystem.dir/src/main.cpp.obj -MF CMakeFiles\OKXTradingSystem.dir\src\main.cpp.obj.d -o CMakeFiles\OKXTradingSystem.dir\src\main.cpp.obj -c C:\program1\Projects\OKXTradingSystem\src\main.cpp
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OKXTradingSystem.dir/src/main.cpp.obj -MF CMakeFiles\OKXTradingSystem.dir\src\main.cpp.obj.d -o CMakeFiles\OKXTradingSystem.dir\src\main.cpp.obj -c C:\program1\Projects\OKXTradingSystem\src\main.cpp
 
 CMakeFiles/OKXTradingSystem.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OKXTradingSystem.dir/src/main.cpp.i"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\program1\Projects\OKXTradingSystem\src\main.cpp > CMakeFiles\OKXTradingSystem.dir\src\main.cpp.i
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\program1\Projects\OKXTradingSystem\src\main.cpp > CMakeFiles\OKXTradingSystem.dir\src\main.cpp.i
 
 CMakeFiles/OKXTradingSystem.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OKXTradingSystem.dir/src/main.cpp.s"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\program1\Projects\OKXTradingSystem\src\main.cpp -o CMakeFiles\OKXTradingSystem.dir\src\main.cpp.s
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\program1\Projects\OKXTradingSystem\src\main.cpp -o CMakeFiles\OKXTradingSystem.dir\src\main.cpp.s
 
 CMakeFiles/OKXTradingSystem.dir/src/OKXClient.cpp.obj: CMakeFiles/OKXTradingSystem.dir/flags.make
 CMakeFiles/OKXTradingSystem.dir/src/OKXClient.cpp.obj: CMakeFiles/OKXTradingSystem.dir/includes_CXX.rsp
 CMakeFiles/OKXTradingSystem.dir/src/OKXClient.cpp.obj: C:/program1/Projects/OKXTradingSystem/src/OKXClient.cpp
 CMakeFiles/OKXTradingSystem.dir/src/OKXClient.cpp.obj: CMakeFiles/OKXTradingSystem.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\program1\Projects\OKXTradingSystem\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/OKXTradingSystem.dir/src/OKXClient.cpp.obj"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OKXTradingSystem.dir/src/OKXClient.cpp.obj -MF CMakeFiles\OKXTradingSystem.dir\src\OKXClient.cpp.obj.d -o CMakeFiles\OKXTradingSystem.dir\src\OKXClient.cpp.obj -c C:\program1\Projects\OKXTradingSystem\src\OKXClient.cpp
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OKXTradingSystem.dir/src/OKXClient.cpp.obj -MF CMakeFiles\OKXTradingSystem.dir\src\OKXClient.cpp.obj.d -o CMakeFiles\OKXTradingSystem.dir\src\OKXClient.cpp.obj -c C:\program1\Projects\OKXTradingSystem\src\OKXClient.cpp
 
 CMakeFiles/OKXTradingSystem.dir/src/OKXClient.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OKXTradingSystem.dir/src/OKXClient.cpp.i"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\program1\Projects\OKXTradingSystem\src\OKXClient.cpp > CMakeFiles\OKXTradingSystem.dir\src\OKXClient.cpp.i
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\program1\Projects\OKXTradingSystem\src\OKXClient.cpp > CMakeFiles\OKXTradingSystem.dir\src\OKXClient.cpp.i
 
 CMakeFiles/OKXTradingSystem.dir/src/OKXClient.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OKXTradingSystem.dir/src/OKXClient.cpp.s"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\program1\Projects\OKXTradingSystem\src\OKXClient.cpp -o CMakeFiles\OKXTradingSystem.dir\src\OKXClient.cpp.s
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\program1\Projects\OKXTradingSystem\src\OKXClient.cpp -o CMakeFiles\OKXTradingSystem.dir\src\OKXClient.cpp.s
 
 CMakeFiles/OKXTradingSystem.dir/src/Utils.cpp.obj: CMakeFiles/OKXTradingSystem.dir/flags.make
 CMakeFiles/OKXTradingSystem.dir/src/Utils.cpp.obj: CMakeFiles/OKXTradingSystem.dir/includes_CXX.rsp
 CMakeFiles/OKXTradingSystem.dir/src/Utils.cpp.obj: C:/program1/Projects/OKXTradingSystem/src/Utils.cpp
 CMakeFiles/OKXTradingSystem.dir/src/Utils.cpp.obj: CMakeFiles/OKXTradingSystem.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\program1\Projects\OKXTradingSystem\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/OKXTradingSystem.dir/src/Utils.cpp.obj"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OKXTradingSystem.dir/src/Utils.cpp.obj -MF CMakeFiles\OKXTradingSystem.dir\src\Utils.cpp.obj.d -o CMakeFiles\OKXTradingSystem.dir\src\Utils.cpp.obj -c C:\program1\Projects\OKXTradingSystem\src\Utils.cpp
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OKXTradingSystem.dir/src/Utils.cpp.obj -MF CMakeFiles\OKXTradingSystem.dir\src\Utils.cpp.obj.d -o CMakeFiles\OKXTradingSystem.dir\src\Utils.cpp.obj -c C:\program1\Projects\OKXTradingSystem\src\Utils.cpp
 
 CMakeFiles/OKXTradingSystem.dir/src/Utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OKXTradingSystem.dir/src/Utils.cpp.i"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\program1\Projects\OKXTradingSystem\src\Utils.cpp > CMakeFiles\OKXTradingSystem.dir\src\Utils.cpp.i
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\program1\Projects\OKXTradingSystem\src\Utils.cpp > CMakeFiles\OKXTradingSystem.dir\src\Utils.cpp.i
 
 CMakeFiles/OKXTradingSystem.dir/src/Utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OKXTradingSystem.dir/src/Utils.cpp.s"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\program1\Projects\OKXTradingSystem\src\Utils.cpp -o CMakeFiles\OKXTradingSystem.dir\src\Utils.cpp.s
+	C:\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\program1\Projects\OKXTradingSystem\src\Utils.cpp -o CMakeFiles\OKXTradingSystem.dir\src\Utils.cpp.s
 
 # Object files for target OKXTradingSystem
 OKXTradingSystem_OBJECTS = \

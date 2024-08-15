@@ -1,1 +1,1 @@
- "C:/Program Files/curl-8.9.1_1-win32-mingw/lib/libcurl.a" "C:/Program Files/jsoncpp-1.9.5/build/lib/libjsoncpp.a" -lws2_32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+ "C:/Program Files/curl-8.9.1_1-win32-mingw/lib/libcurl.a" "C:/Program Files/jsoncpp-1.9.5/build/lib/libjsoncpp.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
